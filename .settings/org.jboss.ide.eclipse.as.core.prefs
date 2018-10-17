@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.core.singledeployable.deployableList=src/com/primetgi/org/dateValidation/DateValidationAfterOneWeek.java\nsrc/com/primetgi/org/dateValidation/DateValidation.java\nsrc/org/primetgi/springSeries/springCore/beanLifeCycle/TestBeanLifeCycle.java\nsrc/main/java/com/primetgi/abx/welcome/ABX_Diagnostics.java\n
