@@ -7,7 +7,7 @@ public class FooRunnable implements Runnable {
 		
 		System.out.println("From FooRunnable Class, Thread Specific Code");
 		for(int i = 1; i <= 5; i ++) {
-			System.out.println(i +". Foo Running");
+			System.out.println(i +". Foo Running From Runnable Interface");
 		}
 		
 	}

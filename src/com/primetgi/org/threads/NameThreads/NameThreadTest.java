@@ -4,7 +4,7 @@ public class NameThreadTest {
 
 	public static void main(String[] args) {
 
-		System.out.println(Thread.currentThread().getName());
+		System.out.println("Current Running Thread: "+Thread.currentThread().getName());
 
 		NameThreadTest test = new NameThreadTest();
 		test.displayMsg();
